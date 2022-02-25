@@ -1,0 +1,1 @@
+## This is a Art Nft Frontend Templated Single 
