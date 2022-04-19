@@ -35,7 +35,7 @@ bot.on("text", (ctx) => {
   if (billetesSerial.includes(serial)) {
     ctx.reply("Si te acepto este billete");
   } else {
-    ctx.reply("Vete con tu billete mamalon");
+    ctx.reply("Vete con tu billete podrio mamalon");
   }
 });
 
