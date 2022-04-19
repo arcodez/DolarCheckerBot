@@ -1,0 +1,15 @@
+{
+  "name": "dolarCheckerbot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.7.0"
+  },
+  "scripts": {
+    "dev": "nodemon bot.js"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
